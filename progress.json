@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T19:43:26.505Z",
+  "generated_at": "2026-09-19T19:53:33.095Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -52,6 +52,19 @@
       "last_pushed_at": "2026-09-19T19:43:27.001Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:81": {
+      "kind": "problem",
+      "id": "81",
+      "title": "Poisson Distribution Probability Calculator",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/81",
+      "path": "problems/0081-poisson-distribution-probability-calculator",
+      "first_solved_at": "2026-09-19T19:53:33.691Z",
+      "last_pushed_at": "2026-09-19T19:53:33.691Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
