@@ -1,5 +1,4 @@
 import math
-from numpy import mean
 
 def poisson_probability(k, lam):
 	"""
