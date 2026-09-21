@@ -3,9 +3,7 @@ import numpy as np
 
 def cov(x: np.ndarray, y: np.ndarray) -> float:
     """Вычисляет ковариацию между двумя векторами."""
-    if np.any((x, y) == 0.0):
-            return 0.0
-    
+	
     # Центрируем векторы (вычитаем математическое ожидание)
     x_centered = x - np.mean(x)
     y_centered = y - np.mean(y)
