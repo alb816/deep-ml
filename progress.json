@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T17:59:14.280Z",
+  "generated_at": "2026-09-21T20:30:25.958Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -89,6 +89,19 @@
       "path": "problems/0179-expected-value-and-variance-of-an-n-sided-die",
       "first_solved_at": "2026-09-21T17:58:24.513Z",
       "last_pushed_at": "2026-09-21T17:59:14.510Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:1139": {
+      "kind": "problem",
+      "id": "1139",
+      "title": "Simulate Two-Dice Sum Distribution",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/1139",
+      "path": "problems/1139-simulate-two-dice-sum-distribution",
+      "first_solved_at": "2026-09-21T20:30:22.896Z",
+      "last_pushed_at": "2026-09-21T20:30:22.896Z",
       "language": "python",
       "lines": 18
     }
