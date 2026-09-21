@@ -11,7 +11,7 @@ def dice_statistics(n: int) -> tuple[float, float]:
     Returns:
         tuple: (expected_value, variance)
     """
-    exp_val = sum(range(1, n + 1)) / n
-    variance = sum((np.array(range(1, n+1)) - exp_val)**2) / n
+    exp_val = np.sum(range(1, n + 1)) / n
+    variance = np.sum((np.array(range(1, n+1)) - exp_val)**2) / n
 
     return exp_val, variance
