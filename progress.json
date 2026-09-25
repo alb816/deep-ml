@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T00:20:06.851Z",
+  "generated_at": "2026-09-25T17:30:09.681Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -130,6 +130,19 @@
       "last_pushed_at": "2026-09-25T00:20:05.290Z",
       "language": "python",
       "lines": 60
+    },
+    "problem:1130": {
+      "kind": "problem",
+      "id": "1130",
+      "title": "Generate Normal Samples and Compute Histogram Counts",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1130",
+      "path": "problems/1130-generate-normal-samples-and-compute-histogram-counts",
+      "first_solved_at": "2026-09-25T17:30:13.102Z",
+      "last_pushed_at": "2026-09-25T17:30:13.102Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
