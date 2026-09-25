@@ -31,6 +31,7 @@ def descriptive_statistics(data: list | np.ndarray) -> dict:
 
     std = np.sqrt(var)
     
+    # Делаем правильные срезы для поиска 25-го и 75-го процентилей
     if n % 2 != 0:
         left_data = data[0:mid+1]   # Включаем медиану в левую часть
         right_data = data[mid:n]    # Включаем медиану в правую часть
