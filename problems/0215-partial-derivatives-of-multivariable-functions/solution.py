@@ -29,7 +29,7 @@ def compute_partial_derivatives(func_name: str, point: tuple[float, ...]) -> tup
 		gradient[0] = np.sin(y)
 		gradient[1] = x * np.cos(y)
 	elif func_name == 'poly3d':
-		gradient = np.zeros(3)
+		gradient = np.append(gradient, 0.0)
 		z = point[2]
 		gradient[0] =  2 * x * y
 		gradient[1] = x**2 + z**2
