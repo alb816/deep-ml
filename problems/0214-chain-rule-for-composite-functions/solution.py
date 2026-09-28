@@ -47,8 +47,7 @@ def compute_chain_rule_gradient(functions: list[str], x: float) -> float:
 		['exp', 'sin', 'square'] represents exp(sin(x²))
 	"""
 	vals = forward(functions, x)
-	der = der_simple(functions[0], x)
-	functions.pop(0)
+	der = der_simple(functions.pop(0), x)
 	for f_i in range(1, len(functions)+1):
 		x = vals[f_i-1][1]
 		f = vals[f_i][0]
