@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T19:14:42.503Z",
+  "generated_at": "2026-09-30T19:15:00.008Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -218,9 +218,9 @@
       "url": "https://www.deep-ml.com/problems/219",
       "path": "problems/0219-derivative-of-softmax",
       "first_solved_at": "2026-09-30T19:13:07.324Z",
-      "last_pushed_at": "2026-09-30T19:14:41.262Z",
+      "last_pushed_at": "2026-09-30T19:14:58.767Z",
       "language": "python",
-      "lines": 25
+      "lines": 24
     }
   }
 }

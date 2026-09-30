@@ -15,7 +15,6 @@ def softmax_derivative(x: list[float]) -> list[list[float]]:
 		Jacobian matrix J where J[i][j] = d(softmax_i)/d(x_j)
 	"""
 	J = []
-	d_ij = 0
 	for i in range(len(x)):
 		j_row = []
 		for j in range(len(x)):
