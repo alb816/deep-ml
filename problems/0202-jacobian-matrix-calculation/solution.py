@@ -19,7 +19,7 @@ def jacobian_matrix(f, x: list[float], h: float = 1e-5) -> list[list[float]]:
 	for i in range(len(x)):
 		x_incr = list(x)
 		x_incr[i] += h
-		f_incr = list(f(x_incr))
+		f_incr = np.array(f(x_incr))
 		col_der = (f_incr - f_base) / h
 		j.append(col_der)
 	j = np.array(j).T
