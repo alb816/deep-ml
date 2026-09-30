@@ -10,7 +10,7 @@ def jacobian_matrix(f, x: list[float], h: float = 1e-5) -> list[list[float]]:
 		h: Step size for finite differences
 	
 	Returns:
-		Jacobian matrix as list of lists
+		Jacobian matrix
 	"""
 	f_base = np.array(f(x))
 
