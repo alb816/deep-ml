@@ -19,10 +19,7 @@ def softmax_derivative(x: list[float]) -> list[list[float]]:
 	for i in range(len(x)):
 		j_row = []
 		for j in range(len(x)):
-			if i == j:
-				d_ij = 1
-			else:
-				d_ij = 0
+			d_ij = 1 if i == j else 0
 			j_row.append(softmax(x, i) * (d_ij - softmax(x, j)))
 		J.append(j_row)
 	return J
