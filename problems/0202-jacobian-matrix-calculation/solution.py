@@ -1,6 +1,6 @@
 import numpy as np
 
-def jacobian_matrix(f, x: list[float], h: float = 1e-5) -> list[list[float]]:
+def jacobian_matrix(f, x: list[float], h: float = 1e-5):
 	"""
 	Compute the Jacobian matrix using numerical differentiation.
 	
