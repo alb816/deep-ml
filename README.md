@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 16 problems · 0 labs · 0 math
+**17** solved · 17 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simulate Two-Dice Sum Distribution](https://www.deep-ml.com/problems/1139) | easy | 2026-09-21 | [solution](problems/1139-simulate-two-dice-sum-distribution) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-09-19 | [solution](problems/0079-binomial-distribution-probability) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-09-28 | [solution](problems/0214-chain-rule-for-composite-functions) |
+| [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-09-30 | [solution](problems/0219-derivative-of-softmax) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-09-17 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-09-29 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-09-29 | [solution](problems/0221-newton-s-method-for-optimization) |
