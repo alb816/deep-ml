@@ -1,0 +1,13 @@
+import numpy as np
+
+def classify_critical_point(hessian: np.ndarray, tol: float = 1e-10):
+    eigvals = np.linalg.eigvalsh(hessian)
+    if np.any(np.abs(eigvals) <= tol):
+        return None
+    elif np.all(eigvals > tol):
+        return -1
+    elif np.all(eigvals < -tol):
+        return 1
+    return 0
+
+    print(eigvals)

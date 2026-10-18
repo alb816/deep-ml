@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**20** solved · 20 problems · 0 labs · 0 math
+**21** solved · 21 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Taylor Series Approximation](https://www.deep-ml.com/problems/310) | easy | 2026-10-18 | [solution](problems/0310-taylor-series-approximation) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-09-19 | [solution](problems/0079-binomial-distribution-probability) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-09-28 | [solution](problems/0214-chain-rule-for-composite-functions) |
+| [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-10-18 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-10-02 | [solution](problems/0218-compute-the-hessian-matrix) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-09-30 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-09-30 | [solution](problems/0219-derivative-of-softmax) |
