@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:52:14.838Z",
+  "generated_at": "2026-10-18T15:54:03.871Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -270,7 +270,7 @@
       "url": "https://www.deep-ml.com/problems/311",
       "path": "problems/0311-classify-critical-points-using-hessian-eigenvalues",
       "first_solved_at": "2026-10-18T15:52:15.871Z",
-      "last_pushed_at": "2026-10-18T15:52:15.871Z",
+      "last_pushed_at": "2026-10-18T15:54:04.848Z",
       "language": "python",
       "lines": 13
     }
