@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T00:06:46.162Z",
+  "generated_at": "2026-10-18T15:09:41.085Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -247,6 +247,19 @@
       "last_pushed_at": "2026-10-02T00:06:47.557Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:310": {
+      "kind": "problem",
+      "id": "310",
+      "title": "Taylor Series Approximation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/310",
+      "path": "problems/0310-taylor-series-approximation",
+      "first_solved_at": "2026-10-18T15:09:42.020Z",
+      "last_pushed_at": "2026-10-18T15:09:42.020Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
