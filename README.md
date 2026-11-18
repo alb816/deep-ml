@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**24** solved · 24 problems · 0 labs · 0 math
+**25** solved · 25 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-09-21 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Generate Normal Samples and Compute Histogram Counts](https://www.deep-ml.com/problems/1130) | easy | 2026-09-25 | [solution](problems/1130-generate-normal-samples-and-compute-histogram-counts) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-09-19 | [solution](problems/0081-poisson-distribution-probability-calculator) |
+| [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2026-11-18 | [solution](problems/0181-sampling-distribution-of-the-mean) |
 | [Simulate Two-Dice Sum Distribution](https://www.deep-ml.com/problems/1139) | easy | 2026-09-21 | [solution](problems/1139-simulate-two-dice-sum-distribution) |
 | [Taylor Series Approximation](https://www.deep-ml.com/problems/310) | easy | 2026-10-18 | [solution](problems/0310-taylor-series-approximation) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-09-19 | [solution](problems/0079-binomial-distribution-probability) |
