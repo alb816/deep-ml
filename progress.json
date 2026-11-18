@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T22:45:17.801Z",
+  "generated_at": "2026-11-18T23:49:42.995Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -338,6 +338,19 @@
       "last_pushed_at": "2026-11-18T22:45:19.087Z",
       "language": "python",
       "lines": 42
+    },
+    "problem:245": {
+      "kind": "problem",
+      "id": "245",
+      "title": "Hypergeometric Distribution PMF",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/245",
+      "path": "problems/0245-hypergeometric-distribution-pmf",
+      "first_solved_at": "2026-11-18T23:49:44.207Z",
+      "last_pushed_at": "2026-11-18T23:49:44.207Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
