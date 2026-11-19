@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T00:26:38.783Z",
+  "generated_at": "2026-11-19T00:28:23.315Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -374,9 +374,9 @@
       "url": "https://www.deep-ml.com/problems/247",
       "path": "problems/0247-negative-binomial-distribution-probability",
       "first_solved_at": "2026-11-19T00:26:38.070Z",
-      "last_pushed_at": "2026-11-19T00:26:38.070Z",
+      "last_pushed_at": "2026-11-19T00:28:22.517Z",
       "language": "python",
-      "lines": 17
+      "lines": 21
     }
   }
 }

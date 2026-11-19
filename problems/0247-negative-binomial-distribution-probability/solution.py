@@ -13,5 +13,9 @@ def negative_binomial_pmf(k: int, r: int, p: float) -> float:
     Returns:
         Probability P(X = k) rounded to 5 decimal places
     """
+    if k < 0 or r <= 0 or not (0 < p <= 1):
+        return 0.0
+    
     prob = math.comb(k + r - 1, k) * p ** r * (1 - p)**k
+    
     return round(prob, 5)
