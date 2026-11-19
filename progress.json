@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T00:28:23.315Z",
+  "generated_at": "2026-11-19T21:54:26.452Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -377,6 +377,19 @@
       "last_pushed_at": "2026-11-19T00:28:22.517Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:243": {
+      "kind": "problem",
+      "id": "243",
+      "title": "Compute Covariance from Joint Probability Mass Function",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/243",
+      "path": "problems/0243-compute-covariance-from-joint-probability-mass-function",
+      "first_solved_at": "2026-11-19T21:54:26.696Z",
+      "last_pushed_at": "2026-11-19T21:54:26.696Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
