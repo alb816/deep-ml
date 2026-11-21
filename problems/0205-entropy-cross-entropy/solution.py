@@ -14,7 +14,8 @@ def entropy_and_cross_entropy(P: list[float], Q: list[float]) -> tuple[float, fl
     P = np.asarray(P)
     Q = np.asarray(Q)
 
-    self_inf = -np.log(P)
-    entropy = np.dot(P, -np.log(P)) if not np.any(P == 0) else 0.0
-    cross_entropy = np.dot(P, -np.log(Q)) if not np.any((P > 0.0) & (Q == 0)) else float('inf')
+    mask = P > 0
+
+    entropy = np.dot(P[mask], -np.log(P[mask]))
+    cross_entropy = np.dot(P[mask], -np.log(Q[mask])) if not np.any(Q[mask] == 0) else float('inf')
     return (round(entropy, 6), round(cross_entropy, 6))
